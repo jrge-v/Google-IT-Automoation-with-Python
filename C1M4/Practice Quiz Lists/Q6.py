@@ -11,7 +11,7 @@ def biography_list(people):
 
         # Format the required sentence and place the 3 variables
         # in the correct placeholders using the .format() method.
-        print(f'{name} is {age} and works as a {profession}')
+        print(f'{name} is {age} years old and works as {profession}')
 
 
 
